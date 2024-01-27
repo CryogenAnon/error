@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+
 import os
 from cryptography.fernet import Fernet
 #find files in directory
